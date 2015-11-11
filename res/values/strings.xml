@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AnnuaireInsta</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="Title">Annuaire des élèves du CFA INSTA</string>
+    <string name="textLogin">Login</string>
+    <string name="editLogin"></string>
+    <string name="hintLogin"></string>
+    <string name="textPassword">Mot de passe</string>
+    <string name="editPassword">Mot de passe</string>
+    <string name="buttonSubmit">Se connecter</string>
+    <string name="title_activity_logged">LoggedActivity</string>
+    <string name="textLogged">Vous êtes connecté !</string>
+    
+    <string name="hint_login">login</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_name">Fullname</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_register">REGISTER</string>
+    <string name="btn_link_to_login">Déjà inscris</string>
+     <string name="btn_link_to_register">Inscription</string>
+    <string name="welcome">Bievenue sur l\'annuaire des élèves du CFA Insta !</string>
+    <string name="btn_logout">LOGOUT</string>
+    <string name="name">Fullname</string>
+    
+    <string name="AUTHENTIFICATION_URL">http://10.0.2.2/android_login_api/index.php</string>
+
+</resources>
